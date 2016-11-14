@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <name>jmespath</name>
+        <label>JmesPath</label>
+        <type>extension</type>
+        <version>2.3.0</version>
+        <namespace>\JmesPath</namespace>
+        <depends_on>
+            <bundle>
+                <name>adapt</name>
+                <version>2</version>
+            </bundle>
+            <bundle>
+                <name>vendor</name>
+            </bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
